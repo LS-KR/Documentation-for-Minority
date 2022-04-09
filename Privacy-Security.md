@@ -27,8 +27,8 @@
 **不要使用百度! 不要使用百度! 不要使用百度!**  
 
 可用的搜索引擎:  
-1. Google(google.com)
-2. Wikipedia(zh.wikipedia.org; en.wikipedia.org)
+1. [Google](https://google.com)
+2. [Wikipedia](https://zh.wikipedia.org)
 
 如果是普通的在国内搜索, 也可以使用Bing(bing.com).  
 
@@ -46,12 +46,12 @@
 ## 邮箱
 尽量不要使用国内的邮箱. 如果可以的话, 使用加密邮箱.
 几个常见的邮箱提供商:  
-1. [Google](gmail.com)
-2. [ProtonMail](protonmail.com)
-3. [Tutanota](tutanota.com)
-4. [Mailfence](mailfence.com)
-5. [Outlook](outlook.com)(建议只用来收发国内邮件)
-6. [CTemplar](ctemplar.com)
+1. [Google](https://gmail.com)
+2. [ProtonMail](https://protonmail.com)
+3. [Tutanota](https://tutanota.com)
+4. [Mailfence](https://mailfence.com)
+5. [Outlook](https://outlook.com)(建议只用来收发国内邮件)
+6. [CTemplar](https://ctemplar.com)
 
 除了Gmail和Outlook之外都没听说过? 正常, 毕竟都是加密邮箱且大多数都面向少数群体.  
 
